@@ -9,3 +9,7 @@ Contribution to open source software
 ## History
 
 TODO: Write history
+
+## LICENSE
+.
+
