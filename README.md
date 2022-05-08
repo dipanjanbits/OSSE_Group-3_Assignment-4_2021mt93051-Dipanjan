@@ -9,3 +9,6 @@ Contribution to open source software
 ## History
 
 TODO: Write history
+
+## Credits
+TODO: Write credits
